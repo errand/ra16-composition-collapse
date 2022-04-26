@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/errand/ra16-composition-collapse/static/css/main.5b934d6e.css",
+    "main.js": "/errand/ra16-composition-collapse/static/js/main.a66e3106.js",
+    "static/js/787.54a06334.chunk.js": "/errand/ra16-composition-collapse/static/js/787.54a06334.chunk.js",
+    "index.html": "/errand/ra16-composition-collapse/index.html",
+    "main.5b934d6e.css.map": "/errand/ra16-composition-collapse/static/css/main.5b934d6e.css.map",
+    "main.a66e3106.js.map": "/errand/ra16-composition-collapse/static/js/main.a66e3106.js.map",
+    "787.54a06334.chunk.js.map": "/errand/ra16-composition-collapse/static/js/787.54a06334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b934d6e.css",
+    "static/js/main.a66e3106.js"
+  ]
+}
